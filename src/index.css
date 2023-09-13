@@ -87,6 +87,7 @@ button:disabled:active {
   border-color: #ccc;
   cursor: not-allowed;
 }
+
 .form-actions {
   text-align: right;
 }
